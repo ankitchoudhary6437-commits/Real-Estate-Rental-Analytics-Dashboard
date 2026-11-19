@@ -2,11 +2,11 @@
 
 **Maintained by Ankit Choudhary**
 
-An interactive Power BI dashboard for analyzing rental property performance, rent collection, occupancy, expenses, and maintenance trends.
+An interactive Power BI dashboard designed to analyze rental property performance, rent collection, occupancy, expenses, and maintenance trends.
 
 ## Project Overview
 
-This dashboard helps property managers monitor rental operations through interactive visualizations and key performance indicators.
+The Rental Property Analytics Dashboard provides an overview of rental operations through interactive visualizations and key performance indicators. It helps property managers monitor financial performance, identify outstanding payments, and understand property-level trends.
 
 ## Project Objectives
 
@@ -45,6 +45,16 @@ The project uses fictional sample rental property data containing:
 - Maintenance Cost by Category
 - Payments by Status
 
+## Dashboard Screenshots
+
+### Main Dashboard
+
+![Rental Property Dashboard](RentalPropertyDashboard.png)
+
+### Riverbend Duplexes Dashboard
+
+![Riverbend Duplexes Dashboard](RentalPropertyDashboardRiverbendDuplexes.png)
+
 ## Key Insights
 
 Based on the sample dataset:
@@ -61,14 +71,9 @@ Based on the sample dataset:
 |---|---|
 | `RentalPropertyDashboard.pbix` | Power BI dashboard |
 | `rental_property_sample_data_.xlsx` | Sample dataset |
-| `RentalPropertyDashboard.png` | Dashboard screenshot |
+| `RentalPropertyDashboard.png` | Main dashboard screenshot |
 | `RentalPropertyDashboardRiverbendDuplexes.png` | Property dashboard screenshot |
 
-## Attribution
+## Credits & Attribution
 
-This project is based on an existing Rental Property Dashboard project. Original source and creator credit should be added here:
-
-- Original Repository: [Add original repository link]
-- Original Creator: [Add creator name]
-
-Any modifications made by Ankit Choudhary should be documented here.
+Repository maintained by **Ankit Choudhary**. This project is based on an existing rental property dashboard. Credit to the original creator should be retained.
